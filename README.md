@@ -1,5 +1,5 @@
 ### Olá, me chamo Lucas Henrique de Abreu, seja bem vindo! 👋
-🔭 Atualmente estou trabalhando na Softfocus desenvolvedor e UNIDEP como professor univesitário
+🔭 Atualmente estou trabalhando na Softfocus como programador Web e Mobile e na UNIDEP como professor univesitário
 
 
 <p align="center" style="margin: 0; padding:0">
