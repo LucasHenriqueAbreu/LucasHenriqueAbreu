@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lucas Henrique de Abreu, mas pode chamar de Igual</h1>
 <h3 align="center">Programador apaixonado por aprender e compartilhar conhecimento.</h3>
 
-<p align="left"> <a href="https://twitter.com/@lucash_ig" target="blank"><img src="https://img.shields.io/twitter/follow/@lucash_ig?logo=twitter&style=for-the-badge" alt="@lucash_ig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@lucash_ig" target="blank"><img src="https://img.shields.io/twitter/follow/@lucash_ig?logo=twitter&style=for-the-badge" alt="lucash_ig" /></a> </p>
 
 - 🔭 Atualmente trabalho em um projeto de "Livro Jogo", com o objetivo de estudo [Gamebook](https://github.com/LucasHenriqueAbreu/gamebook)
 
