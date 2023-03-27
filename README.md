@@ -1,4 +1,5 @@
 <h1 align="center">Olá, eu sou Lucas Henrique de Abreu, mas pode chamar de Igual</h1>
+<span align="start">(Igual, por conta de que tenho um irmão gêmeo)</span>
 <h3 align="center">Programador apaixonado por aprender e compartilhar conhecimento.</h3>
 
 
