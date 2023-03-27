@@ -6,7 +6,7 @@
 
 - 📝 As vezes escrevo alguma coisa no [https://medium.com/@lucashenriquedeabreu](https://medium.com/@lucashenriquedeabreu)
 
-- 💬 Se precisar de ajuda, me chama para conversarmos sobre **TypeScript, Node.js, Angular, AngularMateria, Django, Python, Dart e Flutter**
+- 💬 Se precisar de ajuda, me chama para conversarmos sobre **TypeScript, Node.js, Angular, Angular Material, Django, Python, Dart e Flutter**
 
 - 📫 Você pode entrar em contato comigo no **lucas.abreu.un@gmail.com**
 
